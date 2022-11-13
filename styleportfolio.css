@@ -1,4 +1,4 @@
-﻿body{
+body{
     background-color:#EEE;
     font-family: helvetica, Arial, sans-serif;
 }
@@ -15,10 +15,11 @@ a{
     margin-right:auto;
 }
 
-#header{
-    background-color:aliceblue;
-    color: darkblue;
+#header {
+    background-color: darkblue;
+    color: white;
     text-align: center;
+    height: 50px;
 }
 
 #content{
